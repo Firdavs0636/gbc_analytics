@@ -17,14 +17,14 @@ attrs @ file:///opt/miniconda3/conda-bld/attrs_1762356931441/work
 babel @ file:///opt/miniconda3/conda-bld/babel_1764159299779/work
 beautifulsoup4 @ file:///Users/ec2-user/croot/beautifulsoup4-split_1770291777059/work
 bleach @ file:///opt/miniconda3/conda-bld/bleach_1764153568575/work
-blinker==1.9.0
+blinker @ file:///opt/miniconda3/conda-bld/blinker_1764332166888/work
 boltons @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/boltons_1699240838368/work
 Brotli @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/brotli-split_1699237319520/work
 cachetools==6.2.6
 certifi @ file:///Users/ec2-user/croot/certifi_1767659194178/work/certifi
 cffi @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_b4nang6w_y/croot/cffi_1700254307954/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
-click==8.3.2
+click @ file:///opt/miniconda3/conda-bld/click_1764332244664/work
 comm @ file:///opt/miniconda3/conda-bld/comm_1763119153597/work
 conda @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_527jk_262g/croot/conda_1736277825834/work
 conda-content-trust @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/conda-content-trust_1699283351805/work
@@ -41,6 +41,7 @@ deprecation==2.1.0
 distro @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/distro_1701803554172/work
 executing @ file:///opt/miniconda3/conda-bld/executing_1757061274032/work
 fastjsonschema @ file:///opt/miniconda3/conda-bld/python-fastjsonschema_1763718700638/work
+Flask @ file:///Users/ec2-user/croot/flask_1772099771717/work
 fonttools @ file:///opt/miniconda3/conda-bld/fonttools_1765445188655/work
 frozendict @ file:///opt/miniconda3/conda-bld/frozendict_1761750664099/work
 frozenlist==1.8.0
@@ -63,6 +64,7 @@ ipykernel @ file:///opt/miniconda3/conda-bld/ipykernel_1762946072176/work
 ipython @ file:///opt/miniconda3/conda-bld/ipython_1762789299036/work
 ipython_pygments_lexers @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_25fteymumy/croot/ipython_pygments_lexers_1744753256449/work
 ipywidgets @ file:///Users/ec2-user/croot/ipywidgets_1771500032311/work
+itsdangerous @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_00jdi1gu23/croot/itsdangerous_1716533346702/work
 jedi @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_38ctoinnl0/croot/jedi_1733987402850/work
 Jinja2 @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_2cnn4kenrm/croot/jinja2_1741710859444/work
 jiter==0.13.0
@@ -185,6 +187,7 @@ wcwidth @ file:///Users/ec2-user/croot/wcwidth_1767780874421/work
 webencodings @ file:///Users/builder/cbouss/perseverance-python-buildout/croot/webencodings_1699243630039/work
 websocket-client @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_d37u7gqts8/croot/websocket-client_1715878310260/work
 websockets==15.0.1
+Werkzeug @ file:///Users/ec2-user/croot/werkzeug_1772491065766/work
 wheel==0.41.2
 widgetsnbextension @ file:///opt/miniconda3/conda-bld/widgetsnbextension_1761556741808/work
 yarl==1.23.0
