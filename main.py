@@ -6,7 +6,7 @@ CRM_URL = "https://qubitech.retailcrm.ru/api/v5/orders"
 CRM_KEY = "MmIgsuoUY5cshUKDegIMwATBnQVBEGe7"
 
 SUPABASE_URL = "https://maawfesxlfgetjvdybob.supabase.co"
-SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1hYXdmZXN4bGZnZXRqdmR5Ym9iIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3NjE1Mjk1NSwiZXhwIjoyMDkxNzI4OTU1fQ.MxWFLcIcharhtRPuoQk7MihFlmJZ-YNX7Nmf5n3YvkM"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1hYXdmZXN4bGZnZXRqdmR5Ym9iIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzYxNTI5NTUsImV4cCI6MjA5MTcyODk1NX0.a9T7TK2Ys6vHRsFvn2OVEO3N6GLG3htjW7VkjskFKeQ"
 
 supabase = create_client(SUPABASE_URL, SUPABASE_KEY)
 

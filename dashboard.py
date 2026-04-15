@@ -1,8 +1,6 @@
-import streamlit as st
-import pandas as pd
+import os
 from flask import Flask, render_template_string
 from supabase import create_client
-import plotly.express as px
 
 app = Flask(__name__)
 
